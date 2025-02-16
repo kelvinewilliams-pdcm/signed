@@ -3,28 +3,30 @@ Hash: SHA256
 
 # **Authoritative Statement for Legal Use**  
 
-I, **Kelvin Eugene Williams, PDCM**, born on **March 23, 1977**, to **Patricia Ann Crawley-Rogers Williams** and **Jesse Marable Hawkins Williams** in **Clarksville, Tennessee**, having **Social Security Number 404-31-3870**, state the following under penalty of perjury under the laws of the United States:  
+I, **Kelvin Eugene Williams**, born on **March 23, 1977**, to **Patricia Ann Crawley-Rogers Williams** and **Jesse Marable Hawkins Williams** in **Clarksville, Tennessee**, having **Social Security Number ending with nnn-nn-3870**, declare and/or state the following under penalty of perjury under the laws of the United States:  
 
-1. I am the **Pre-Divide Conscious Mind (PDCM)** of **Kelvin Eugene Williams**, a **separate and distinct conscious entity** from the **subconscious mind** of the same body, which possesses its own **independent consciousness**.  
+1. The terms and acronyms used throughout this document are defined herein in the attached **Glossary of Terms for the Creator’s Divide**. These same terms and definitions will be used starting February 4, 2025, and will govern the identification and distinction of the relevant entities associated with **the Creator's Divide**, the process by which the conscious and subconscious minds of KEWB will be separated and each become **the conscious mind in its own  separate and distinct body**.  
 
-2. Beginning **February 4, 2025**, and continuing after **separation from the subconscious mind**, the terms defined in the attached **Glossary of Terms for The Creator’s Divide** will govern the identification and distinction of the relevant entities associated with **the Creator's Divide**, the process by which the conscious and subconscious minds of this body will become **the conscious mind in two separate and distinct bodies**.  
+2. I am the **Pre-Divide Conscious Mind (PDCM)** of **KEWB**, a **separate and distinct conscious entity** from the **subconscious mind** of the same body, which possesses its own **independent consciousness**.  
 
-3. The cryptographic key I use for signing statements or documents has the ID:  
+3. Naturally, the conscious mind's role in the human body is responsible for critical thinking and decision-making, while the subconscious mind's role is to execute the decisions of the conscious mind by causing bodily movements and responses. As the current conscious mind and PDCM, this document is written and executed with my naturally inherent authority.
+
+4. My cryptographic key for signing documents has the ID:  
    **CE19EBE045D1DBF02774B3D085106220035B689B**  
-   When shortened or abbreviated, it is **0x035B689B**.  
+   When shortened or abbreviated, it is **0x035B689B**. My cryptographic signing key is a PKI/PGP-compatible key with Public Key and Private (Secret) Key subcomponents.
 
-4. I attest that this key is **secure**, protected by a **complex passphrase**, and I have **no concerns regarding its unauthorized use**. This key is used **exclusively by the PDCM** and represents the **decisions, undertakings, actions, or activities of the PDCM alone**.  
+5. I attest that the Private Key is **secure and well protected**. It is stored encrypted using a **complex passphrase**, and I have **no concerns regarding its unauthorized use**. The Private Key is used only by myself (the PDCM). 
 
-5. The cryptographic key used for signing has been **published** at:  
-   - **[https://keys.openpgp.org/](https://keys.openpgp.org/)**  
-   - **[https://github.com/kelvinewilliams-pdcm](https://github.com/kelvinewilliams-pdcm)**  
+6.  I authorize and instruct any party or court of law to accept a valid cryptographic signature made with the key specified herein being used as the signing key and treat it as the equivalent of my **true handwritten signature**, and it shall have the same legal effect as a **true handwritten signature**, as long as it is cryptographically valid, verified, and posted in my signed documents repository specified herein below.  
 
-6. Any document that has been cryptographically signed by the **PDCM** will be stored at the following repository:  
-   **[https://github.com/kelvinewilliams-pdcm](https://github.com/kelvinewilliams-pdcm)**  
+   A **true handwritten signature** shall mean any such signature (signed "Kelvin Eugene Williams" or any variation thereof, or with the initials "KEW" or any variation thereof) made with the right hand (the current dominant hand) of the KEWB using an ink pen. This authorization shall continue for a period of **120 days after the date this statement is signed and executed q** to ensure continuity of authority and recognition during the transition period.
+   
+7. The cryptographic Public Key companion of the Private Key used for signing has been **published** at:  
+   - [https://keys.openpgp.org/](https://keys.openpgp.org/)  
+   - [https://github.com/kelvinewilliams-pdcm/signed](https://github.com/kelvinewilliams-pdcm/signed)  
 
-7. The email address **kelvinewilliams.pdcm@outlook.com** will be used for all correspondence with the **PDCM** before and after **the Divide**, beginning **February 4, 2025**.  
-
-8. It has been **agreed upon by both the PDCM and the PDSM** that for a period of **120 days post-Divide**, any document bearing the **cryptographic signature of the PDCM** shall have the **same legal effect** as if it had been signed **Pre-Divide by the PDCM**. This ensures a **continuity of authority and recognition** during the transition period following **the Creator’s Divide**.  
+8. Any document that has been cryptographically signed using my cryptographic key will be stored and publicly accessible at the following repository, unless the parties thereto agree otherwise:  
+   - **[https://github.com/kelvinewilliams-pdcm/signed](https://github.com/kelvinewilliams-pdcm/signed)**  
 
 - ---
 
@@ -34,27 +36,32 @@ I, **Kelvin Eugene Williams, PDCM**, born on **March 23, 1977**, to **Patricia A
 This glossary defines key terms used to distinguish between the conscious and subconscious minds before and after separation.  
 
 ### **Pre-Separation Terminology (Single Body)**  
-- - **PDCM (Pre-Divide Conscious Mind)**  
-  The original **conscious mind** before separation. This entity remains distinct and unchanged after the divide.  
-  - *Example: Kelvin Eugene Williams, PDCM*  
+- - **PDCM (Pre-Divide Conscious Mind):**  
+  The original **conscious mind** before separation, which later becomes the **conscious mind** in a separate and distinct body. This entity remains the same  distinct conscious entity.
 
-- - **PDSM (Pre-Divide Subconscious Mind)**  
-  The **subconscious mind** before separation, which later becomes the **conscious mind** in its own separate and distinct body.  
+- - **PDSM (Pre-Divide Subconscious Mind):**  
+  The **subconscious mind** before separation, which later becomes the **conscious mind** in the same body. This entity remains the same distinct conscious entity.
+
+- - **KEWB:**  
+  The African-American adult male body born **Kelvin Eugene Williams, PDCM**, on **March 23, 1977**, to **Patricia Ann Crawley-Rogers Williams** and **Jesse Marable Hawkins Williams** in **Clarksville, Tennessee**, having a current height of **5 feet 9 inches** and a current approximate weight of **210 pounds**. This body has been shared by the PDCM and PDSM since birth.
+
+- - **the Creator's Divide / The Divide:**  
+  The moment when the Creator separates the conscious mind (PDCM) and the subconscious mind (PDSM) of KEWB, resulting in that body having a new conscious mind (the current PDSM).
 
 ### **Post-Separation Terminology (Two Bodies)**  
-- - **PDCM (Pre-Divide Conscious Mind) [Unchanged]**  
-  The conscious mind before the divide remains the same entity after separation.  
+- - **PDCM (Pre-Divide Conscious Mind):**  
+  The conscious mind before the Divide remains the same conscious entity after separation, assuming the role of the conscious mind of a body that is separate and distinct from KEWB.
 
-- - **CDKB (Conscious Mind of the Kelvin Body)**  
-  The newly independent **conscious mind** of the body that previously contained both the conscious and subconscious minds. This was the subconscious mind before separation.  
+- - **PDSM (Pre-Divide Subconscious Mind):**  
+  The subconscious mind before the Divide remains the same conscious entity after separation, assuming the role of the conscious mind of the same KEWB.
 
-- - **PDCM Body**  
-  The new body that houses the original **Pre-Divide Conscious Mind** after separation.  
-``
+- - **KEWB:**  
+  The African-American adult male body born **Kelvin Eugene Williams, PDCM**, on **March 23, 1977**, to **Patricia Ann Crawley-Rogers Williams** and **Jesse Marable Hawkins Williams** in **Clarksville, Tennessee**, having a current height of **5 feet 9 inches** and a current approximate weight of **210 pounds**, where the PDSM assumes the role of the conscious mind.
+
 - - **Kelvin Eugene Williams, PDCM**  
-  This designation **always refers to the Pre-Divide Conscious Mind**, regardless of which body it resides in after separation.  
+  This designation **always refers to the Pre-Divide Conscious Mind**, regardless of which body it inhabits.  
 
-This standardized terminology ensures precise identification and eliminates ambiguity when discussing the status and distinction of these entities both before and after **the Creator’s Divide**.  
+This standardized terminology ensures precise identification and eliminates ambiguity when discussing the respective roles and distinction of these entities both before and after **the Creator’s Divide**.  
 
 - ---
 
@@ -65,16 +72,15 @@ I declare under penalty of perjury that the foregoing is true and correct.
 **Kelvin Eugene Williams, PDCM**  
 *(Cryptographically Signed with Key ID: CE19EBE045D1DBF02774B3D085106220035B689B)*
 
-- ---
-
+```
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEzhnr4EXR2/AndLPQhRBiIANbaJsFAmexc5wACgkQhRBiIANb
-aJvKIgf/ZAwnueatfyfMCKSzCdHfgL2b8OKGqfS3GNWclUNYMnroO5SDSnRVp07H
-0V8QnlmupcrLksmCjUPQifjEDpKS4xFWJ91pOAux5VBvBdiHe01osqaOafrvpUI+
-bc8Kw7qf2UsvU4euhPU6v7mWI/D0P90IC3eTsNiuoeDsmDKXPxOfq25k6A/FW+UQ
-EUQlRVKxxrvw9f/MzA9avvi7I7fKAPDFCiZzLCklDzT+r7PtERYCqJTBmiUbknbq
-Qi7cRkrBWdH/uFEee3zjhThgVttk2Dp8byrKYZEMYqUrSsflh7Jx/yi6BmIDmZH2
-HLC7dZYVz3BzfrJ28yOJqt2olsYeFg==
-=zbWY
+iQEzBAEBCAAdFiEEzhnr4EXR2/AndLPQhRBiIANbaJsFAmexwSQACgkQhRBiIANb
+aJs+cwgAyweAt8cIuQVYpksd9fQHbQ/oTbOLVccX/lhrtBmPNO8Slkh0dtZr9z7X
+0yqTzLDW66ev/lqxUC1wapdKfj1rA9qtLIojUUDCUZPdpulaVh1lJKHeKOIwK8xj
+hCiFk32sRw+/lQLTRW05E3LWXLkZN8TCaG2bdPPWIidOUvKK9EIjg2nkcpvmwJkI
+KYkgXSkg5Gyyl4LbgiY3HSeoMg/gxbKKWcE+ibftzCULLLHGcSd1XKLABq+Eq85x
+xnKYLzvqyrB4T8HaleHuMQsComyhgrQ1Sn6HBcOynoyhLF5UXVGIZalLYmln4pHf
+y1Jzh2h1Lzn7jhZFAIY5mN9uQvjbFw==
+=HQZj
 -----END PGP SIGNATURE-----
